@@ -8,7 +8,6 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por ajudar pessoas. Estou
 - Git e GitHub
 - Node.js
 - React
-- [Coloque outras se quiser]
 
 ## 📂 Projetos
 - em andamento
