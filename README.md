@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Sidney
 
-<!--
-**SidneyCM/SidneyCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
+Sou apaixonado por tecnologia, aprendizado contínuo e por ajudar pessoas. Estou sempre buscando evoluir como desenvolvedor e como pessoa.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- HTML, CSS e JavaScript
+- Git e GitHub
+- Node.js
+- React
+- [Coloque outras se quiser]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+- em andamento
+
+## 📫 Como me encontrar
+- Email: sidneycamposmoreira@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sidney-campos-0b923315a/
+- Instagram: https://www.instagram.com/siiiiiidx/
